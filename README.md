@@ -16,6 +16,7 @@ This project aims to develop an AI-based Smart Waste Management System using Obj
 - OpenCV
 - Streamlit
 - GitHub
+- link colab : https://colab.research.google.com/drive/17OyXc7su5DeDSSbz5K3Oh7qWns7nRb_f#scrollTo=6Ie0UZJShCeU
 
 ## Dataset
 Dataset obtained from:
